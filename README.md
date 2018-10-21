@@ -1,3 +1,7 @@
+ [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Hookbin) 
+[![GitHub stars](https://img.shields.io/github/stars/ssteveli/hookbin.svg)](https://github.com/ssteveli/hookbin/stargazers)
+[![GitHub license](https://img.shields.io/github/license/ssteveli/hookbin.svg)](https://github.com/ssteveli/hookbin)
+
 # hookbin
 This project inspired by [requestb.in](http://requestb.in) and [inspectb.in](http://inspectb.in) was created to
 support our automation strategy at [FitPay](http://www.fit-pay.com).   RequestBin and InspectBin our awesome tools,
